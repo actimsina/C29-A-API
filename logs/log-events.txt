@@ -1,0 +1,4 @@
+b33156c0-a06b-4627-be0f-9562cb52faa3	20221115	10:03:49	Interesting event
+8e8ff537-b06d-4b6a-b84f-17c3d52efd77	20221115	10:03:51	Interesting event
+d6c55afa-94db-4e9f-b0eb-43d87d20030f	20221115	10:42:12	Interesting event
+ddf7f685-9634-4050-b1ba-aa194834a584	20221115	10:45:27	New event from index
