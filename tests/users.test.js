@@ -19,6 +19,11 @@ test('register test user', async () => {
     await api.post('/users/register')
         .send(user)
         .expect(201)
+        .expect(res => {
+            console.log(res.body)
+            expect(res.body.status).toContain('success')
+            expect(res.body.username).toBe('testUser')
+        })
 })
 // teardown
 afterAll(async () => {
